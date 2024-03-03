@@ -19,18 +19,18 @@
 
 ## requirements
 inflect==5.3.0 <br/>
-librosa==0.8.1
-matplotlib==3.5.1
-numpy==1.20.3
-Pillow==8.4.0
-PyQt5==5.15.6
-scikit-learn==1.0.2
-scipy==1.7.3
-sounddevice==0.4.3
-SoundFile==0.10.3.post1
-tqdm==4.62.3
-umap-learn==0.5.2
-Unidecode==1.3.2
-urllib3==1.26.7
-visdom==0.1.8.9
+librosa==0.8.1 <br/>
+matplotlib==3.5.1 <br/>
+numpy==1.20.3 <br/>
+Pillow==8.4.0 <br/>
+PyQt5==5.15.6 <br/>
+scikit-learn==1.0.2 <br/>
+scipy==1.7.3 <br/>
+sounddevice==0.4.3 <br/>
+SoundFile==0.10.3.post1 <br/>
+tqdm==4.62.3 <br/>
+umap-learn==0.5.2 <br/>
+Unidecode==1.3.2 <br/>
+urllib3==1.26.7 <br/>
+visdom==0.1.8.9 <br/>
 webrtcvad==2.0.10
