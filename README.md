@@ -14,5 +14,5 @@
 ### 1. Install Requirements
 1. Python 3.7 is recommended. Python 3.5 or greater should work.
 3. Install [ffmpeg](https://ffmpeg.org/download.html#get-packages). This is necessary for reading audio files.
-4. Install [PyTorch](https://pytorch.org/get-started/locally/). Pick the latest stable version, your operating system, your package manager (pip by default) and finally pick any of the proposed CUDA versions if you have a GPU, otherwise pick CPU. Run the given command.
+4. Install [PyTorch](https://pytorch.org/get-started/locally/).
 5. Install the remaining requirements with `pip install -r requirements.txt`
