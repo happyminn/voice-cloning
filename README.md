@@ -18,8 +18,8 @@
 5. Install the remaining requirements with `pip install -r requirements.txt`
 
 ## requirements
-﻿inflect==5.3.0
-librosa==0.8.1
+﻿- inflect==5.3.0
+- librosa==0.8.1
 matplotlib==3.5.1
 numpy==1.20.3
 Pillow==8.4.0
