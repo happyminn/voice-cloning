@@ -18,7 +18,7 @@
 5. Install the remaining requirements with `pip install -r requirements.txt`
 
 ## requirements
-`﻿inflect==5.3.0
+inflect==5.3.0 <br/>
 librosa==0.8.1
 matplotlib==3.5.1
 numpy==1.20.3
@@ -33,4 +33,4 @@ umap-learn==0.5.2
 Unidecode==1.3.2
 urllib3==1.26.7
 visdom==0.1.8.9
-webrtcvad==2.0.10`
+webrtcvad==2.0.10
