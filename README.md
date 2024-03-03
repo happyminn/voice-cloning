@@ -1,6 +1,5 @@
 # Voice Cloning
 
-- Works with the following commit of Real-Time-Voice-Cloning: https://github.com/CorentinJ/Real-Time-Voice-Cloning/commit/95adc699c1deb637f485e85a5107d40da0ad94fc
 
 **Video demonstration**
 # ![image](https://github.com/happyminn/voice-cloning/assets/156920075/55c54909-77af-49ed-99ab-e62a6237ead4)
@@ -34,3 +33,5 @@ Unidecode==1.3.2 <br/>
 urllib3==1.26.7 <br/>
 visdom==0.1.8.9 <br/>
 webrtcvad==2.0.10
+
+- Works with the following commit of Real-Time-Voice-Cloning: https://github.com/CorentinJ/Real-Time-Voice-Cloning/commit/95adc699c1deb637f485e85a5107d40da0ad94fc
